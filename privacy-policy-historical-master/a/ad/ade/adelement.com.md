@@ -1,0 +1,131 @@
+> *The following text is extracted and transformed from the adelement.com privacy policy that was archived on 2019-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191230013314id_/http%3A//adelement.com/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy | AdElement
+
+### 
+
+* * *
+
+Site Privacy Policy
+
+* * *
+
+###### Personally Identifiable information
+
+We collect Personally Identifiable Information (PII) on www.adelement.com when you voluntarily provide that information to us, for example when you complete an online form, register, access your account, enter billing preferences or email us PII information. This information is used to 
+
+  * Provide you services, information or contact you to respond to your inquiry
+  * Improve, operate and maintain our site, services, systems and resources
+  * Bill for our services, collect amounts owed to us
+  * Tailor your user experience, maintain a record of dealings with you, administrative purposes and prevent fraudulent use of our site and services
+
+
+
+###### Aggregate information
+
+We collect aggregate or non-PII information that may include your IP address, pages viewed, time spent, events triggered, browser used, computer's operating system, internet service provider (ISP), referring URL, time and date of your visit, etc. This information is collected passively using standard web server logs, cookies and web beacons (also know as 1x1 pixels). This information is used to improve, operate and maintain our site, services, systems and resources. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+
+  
+
+
+###### Cookies
+
+We use cookies and web beacons to collect aggregate non-PII data that is used to improve, operate and maintain our site, services, system and resources.
+
+  
+
+
+###### Links & third party websites
+
+Our site contains links to third party websites or services that we do not own or operate. Our privacy policy does not apply to any of these third party website or services and we cannot be responsible for their privacy practices.
+
+###### Deleting your Personally Identifiable Information
+
+If you would like us to delete any PII that you have provided us please email us a request to remove your information at security@adelement.com and we will process your request within a reasonable period of time.
+
+  
+
+
+### 
+
+* * *
+
+Services Privacy Policy
+
+* * *
+
+###### Overview of our Services
+
+We provide online advertising services to our clients. When you visit websites that our clients or we have purchased advertisements on, and/or our clients or partners place our web beacons on their websites that you visit, we collect non-PII information about that visit.
+
+  
+
+
+###### Personally Identifiable information
+
+We do not collect any Personally Identifiable Information (PII) through our Services.
+
+  
+
+
+###### Aggregate information
+
+We collect aggregate or non-PII information that includes, but is not limited to your IP address, pages viewed, time spent, events triggered (e.g. clicks), browser used, computer's operating system, internet service provider (ISP), referring URL, time and date of your visit. This information is completely anonymous and used to improve the relevance of advertisements shown to you.
+
+  
+
+
+###### Cookies
+
+We use cookies and web beacons on our partner and our client websites to collect aggregate non-PII data including but not limited to interests, behaviors, type of activity, pages visited, date/time of visit, ip address, browser, ISP. This information is used make advertisements more relevant to you and or measure success of our or our clients advertising campaigns.
+
+  
+
+
+###### Opting Out of Behavioral Advertising (Web Browsers)
+
+If you'd like to opt out from AdElement collecting your Non-PII in connection with serving behavioral ads on our network of web sites, please [click here](http://www.adelement.com/company/optout/?type=optout). When you opt out, an opt out cookie is placed on your computer. This cookie tells us not to collect your Non-PII to tailor online advertisement campaigns. Please note that if you change your computer, change your Internet browser (e.g. from Chrome to Firefox), or delete all your cookies, you will need to renew your opt out. You can check your [opt out status here](http://www.adelement.com/company/optout).
+
+  
+
+
+###### Opting Out of Behavioral Advertising (Mobile Applications)
+
+If you would like to opt-out from AdElement collecting your Non-PII in connection with serving behavioral ads on our network of mobile applications you will have to be browsing inside a mobile application environment. When you are served a behaviorally targeted ad from us you can opt-out by clicking on the opt out button accesible from ad choices icon integrated in all our behaviorally targeted ads. By doing this we are able to capture the advertising device identifier for your mobile device, store it on our servers and then stop showing your advertising device identifier the behaviorally targeted ads. Please note if you reset your advertising device identifier you will have to renew your opt out status.
+
+This procedure will only block ads that are displayed by AdElement. If you want to block these type of ads from other advertising providers please follow instructions below:
+
+**Android Users (version 2.3 and above)**  
+To opt out of interest-based or behaviorally advertising for your Android Device, follow the instructions provided by Google here to "opt out of interest-based advertising" [ Google Play Help](https://support.google.com/googleplay/answer/3405269). If you do not have the Google Play Services installed on your device, you wonâ€™t be shown ads from AdElement. Please note that this is a device setting and will disable interest-based ads from all providers, not just AdElement
+
+ **iOS users (version 6 and above)**  
+To opt out of interest-based or behaviorally advertising for your iOS Device, follow the instructions provided by Apple here to "Turn on Limit Ad Tracking": [Apple Support Center](https://support.apple.com/en-in/HT202074).Please note that this is a device setting and will disable interest-based ads from all providers, not just AdElement
+
+  
+
+
+###### Third Party Websites
+
+Our advertisements/ web beacons or our clients advertisements / web beacons maybe seen on third party websites or services that we do not own or operate. Our privacy policy does not apply to any of these third party website or services and we cannot be responsible for their privacy practices.
+
+* * *
+
+### Information relating to Children
+
+Our products and services are designed for those over 13 years of age or older. We do not knowingly collect any Personally Identifiable Information from anyone under the age of 13.
+
+* * *
+
+### Disclosure of Information to Third Parties
+
+We may disclose personally identifiable information about our users to third party service providers (e.g. data storage and processing providers) that assist us in our work. We limit the personal information we provide to these service providers that is necessary for them to perform their work for us. We may also disclose PII information to third parties when we reasonably believe we are required by law, and in order to investigate, prevent, or take action against suspected or actual prohibited activities.
+
+* * *
+
+### Storage of Information
+
+PII information we collect through our Site is stored for a reasonable time record keeping purposes and to improve our site and services. This information is deleted in normal course of business or as space is required. Non-PII information we collect through our Service maybe stored for up to 24 months, after which it is only stored in aggregate format.
+
+* * *
+
+_Last Updated: 13 Mar 2018_

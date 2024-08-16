@@ -1,0 +1,8 @@
+djangorestframework
+psycopg2-binary
+django-cors-headers
+spacy~=3.0.6
+numpy==1.21.5
+scikit-learn
+transformers==4.42.4
+torch==2.3.1

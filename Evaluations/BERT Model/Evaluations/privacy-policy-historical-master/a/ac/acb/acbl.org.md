@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120174329id_/http%3A//www.acbl.org/about-acbl/administration/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | American Contract Bridge League
+
+If you are an ACBL member, information you provide to the ACBL and information the ACBL gathers about you for your member profile is used by the ACBL for membership services. These services may include contacting you about ACBL-sanctioned events, ACBL organizational news, billing and other account notices, game results, masterpoint rank change notices and opinion surveys.
+
+In addition, such information is routinely used and distributed by the ACBL to ACBL-sanctioned clubs, unit and district officials, tournament directors and organizers, as well as teacher and club membership recruiters. This information will be strictly limited to its intended use. These entities may use contact information to announce or promote ACBL-sanctioned events and to report news related to the entity. Further use of information may include, but is not limited to, running games and tournaments, recording and announcing game results and creation of partnerships. No entity may use this information for personal or private business opportunities or fundraisers.
+
+Should member information be used for the creation of a local membership roster or directory, the producer must receive permission from the member listed and adhere to the rules and regulations set out by the ACBL’s Privacy Policy and Code of Disciplinary Regulations. Clubs will have access to member data but may only use data for members in their local region for the purposes set forth in the previous paragraph with the same limitations. ACBL members may control accessibility of their contact information (email, address, and phone numbers) by marking confidentiality in their MyACBL privacy settings. Designated officials and other parties may request member information for a larger regional area and may receive such upon review and approval by the ACBL.
+
+Credit card information that you provide to us when paying dues or for other membership services is only shared with an authentication business. The information is only used for the express purposes requested by the ACBL.
+
+The ACBL may share information in order to investigate, prevent, or take action regarding illegal activities, situations involving potential threats to the physical safety of any person, violations of this privacy policy, or as otherwise required by law.
